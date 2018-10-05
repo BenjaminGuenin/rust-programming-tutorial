@@ -18,5 +18,4 @@ fn main() {
 
     // println!("{}, world!", s1); // Error, Rust prevents us to use invalidated reference
     println!("{}, world!", s2);
-
 }
